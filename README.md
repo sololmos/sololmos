@@ -1,4 +1,4 @@
-### Hi 👋  I’m Sol Olmos, FullStack Developer!  💻
+# Hi 👋  I’m Sol Olmos, FullStack Developer!  💻
 
 I feel passion 🧡 for innovation, design, art and technology!
 
@@ -11,6 +11,8 @@ mariasol039@hotmail.com
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sol-olmos-fullstackdev-industrialdesigner//)  
+![I am GitHub Readme Generator's creator](https://istefan.ro/img/hero/web-developer-newsletter-coder-stefan-iordache.jpg)
+
 
 
 <!--
