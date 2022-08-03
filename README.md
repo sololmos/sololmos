@@ -1,15 +1,27 @@
-### Hi 👋  I’m Sol Olmos, FullStack Developer!  💻
+# Hi 👋  I’m Sol Olmos, FullStack Developer and Industrial Designer!  💻
 
-I feel passion 🧡 for innovation, design, art and technology!
+![dino](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
-🌱 I’m currently learning React Native, TypeScript.
+- I feel passion 🧡 for innovation, design, art and technology!
 
-My skills 🧠📚🤓👩‍💻: React, Bootstrap, Redux, Javascript(ES6), PostgreSQL, Sequelize, HTML, Css.
+- 🌱 I’m currently learning React Native, TypeScript.
 
-📫 How to reach me:
-mariasol039@hotmail.com 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sol-olmos-fullstackdev-industrialdesigner//)  
+- 🔭 My last project where i was working with my team is <a href="https://wallabyapp.vercel.app/">Wallaby NFT Marketplace</a>
+
+- My skills 🧠📚🤓👩‍💻: React, Bootstrap, Redux, Javascript(ES6), PostgreSQL, Sequelize, HTML, Css.
+
+- 📫 How to reach me:
+
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sol-olmos-fullstackdev-industrialdesigner//) 
+
+ mariasol039@hotmail.com 
+
+
+<h2>
+😉 Thank you!
+</h2>
+
 
 <!--
 **sololmos/sololmos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
