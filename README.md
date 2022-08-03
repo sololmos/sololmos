@@ -40,6 +40,8 @@
 
 
 - 📫 How to reach me: **mariasol039@hotmail.com**
+	
+	
 
   [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sol-olmos-fullstackdev-industrialdesigner//) 
 
@@ -47,7 +49,7 @@
 
 
 <h2 align="center">
- Thank you!
+ Feel free to contact me!👍💻📩
 </h2>
 
 
