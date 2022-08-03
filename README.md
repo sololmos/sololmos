@@ -1,8 +1,13 @@
 ### Hi 👋  I’m Sol Olmos, FullStack Developer!  💻
+
 I feel passion 🧡 for innovation, design, art and technology!
+
 🌱 I’m currently learning React Native, TypeScript.
+
 My skills 🧠📚🤓👩‍💻: React, Bootstrap, Redux, Javascript(ES6), PostgreSQL, Sequelize, HTML, Css.
-📫 How to reach me: mariasol039@hotmail.com 
+
+📫 How to reach me:
+mariasol039@hotmail.com 
 https://www.linkedin.com/in/sol-olmos-fullstackdev-industrialdesigner/
 
 
