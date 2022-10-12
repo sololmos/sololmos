@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋  I’m Sol Olmos 🙋‍♀️</h1>
 
-<h2 align="center"> FullStack Developer and Industrial Designer! 💻</h2>
+<h2 align="center"> Full Stack Developer and Industrial Designer! 💻</h2>
 
 <h1 align="center"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="700px"> </h1>
 
