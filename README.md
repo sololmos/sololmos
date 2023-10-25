@@ -12,10 +12,10 @@
 
 - I feel passion 🧡 for innovation, design, art and technology!
 
-- 🌱 I’m currently learning React Native, TypeScript.
+-  Committed to the creation of innovative solutions and continuous learning.
 
 
-- 🔭 My last project where i was working with my team is <a href="https://wallabyapp.vercel.app/">Wallaby NFT Marketplace</a>
+- 🔭 You can see my projects on <a href="https://portfolio-sol-olmos.vercel.app/">my portfolio 🧡</a>
 
 - My skills 🧠📚👩‍💻:
 <p align="left">
